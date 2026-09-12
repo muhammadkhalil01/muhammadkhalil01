@@ -82,7 +82,7 @@ Exploring networking, Nmap, Linux security and cybersecurity fundamentals.
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: lil4you567@gmail.com
 
 ---
 
