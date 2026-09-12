@@ -1,91 +1,83 @@
-# 👋 Hi, I'm Khalil
+<!-- ======================= HEADER ======================= -->
 
-### 👨‍💻 Information & Computer Technology Engineer
+<div align="center">
 
-🎓 Student at Politeknik Negeri Lhokseumawe  
-💻 Web Developer  
-☁️ Cloud & DevOps Enthusiast  
-🚀 Interested in building useful and practical technology solutions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=MUHAMMAD%20KHALIL&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Information%20%26%20Computer%20Technology%20Engineer&descAlignY=55&descSize=18"/>
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Developer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Cybersecurity+Learner;Always+Learning+%7C+Always+Building" />
 
-I'm an Information & Computer Technology student who enjoys
-building web applications, learning backend development,
-cloud computing, and exploring modern technologies.
+<br><br>
 
-I enjoy turning ideas into practical applications using
-code and continuously improving my technical skills.
+<img src="https://komarev.com/ghpvc/?username=muhammadkhalil01&label=PROFILE+VIEWS&color=1E3A8A&style=for-the-badge" />
+
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ======================= INTRO ======================= -->
 
-### 💻 Programming & Development
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+# 👋 Hello, I'm Khalil
 
-### ☁️ Cloud & DevOps
+### `Code • Build • Learn • Improve`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <b>Web Developer</b> &nbsp;•&nbsp;
+  <b>Backend Developer</b> &nbsp;•&nbsp;
+  <b>Cloud & DevOps Enthusiast</b> &nbsp;•&nbsp;
+  <b>Cybersecurity Learner</b>
+</p>
 
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🧑‍💻 About Me
 
-- Laravel & PHP
-- Python & Django
-- REST API
-- Cloud Computing
-- Docker & DevOps
-- Linux & Networking
-- Cybersecurity
+I'm **Muhammad Khalil**, an Information & Computer Technology student
+at **Politeknik Negeri Lhokseumawe**, Indonesia.
 
----
+I enjoy building web applications, exploring backend technologies,
+working with Linux and Docker, and continuously learning about
+cloud computing, networking, and cybersecurity.
 
-## 🚀 Projects
+My goal is simple:
 
-### 🌐 Web Development
-Building web applications using Laravel, PHP, Python and Django.
+> **Turn ideas into useful technology.**
 
-### ☁️ Cloud & DevOps
-Learning containerization, Docker, Linux environments and deployment.
+```yaml
+profile:
+  name: Muhammad Khalil
+  username: muhammadkhalil01
+  field: Information & Computer Technology
+  campus: Politeknik Negeri Lhokseumawe
+  location: Aceh, Indonesia 🇮🇩
 
-### 🔐 Cybersecurity & Networking
-Exploring networking, Nmap, Linux security and cybersecurity fundamentals.
+focus:
+  - Web Development
+  - Backend Development
+  - REST API
+  - Cloud Computing
+  - DevOps
+  - Networking
+  - Cybersecurity
 
----
+currently_learning:
+  - Laravel
+  - PHP
+  - Python
+  - Django
+  - Docker
+  - Linux
+  - REST API
 
-## 📊 GitHub Stats
-
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadkhalil01&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadkhalil01&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-📧 Email: lil4you567@gmail.com
-
----
-
-### 💡 "Learn. Build. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
+philosophy:
+  - Learn
+  - Build
+  - Experiment
+  - Improve 
