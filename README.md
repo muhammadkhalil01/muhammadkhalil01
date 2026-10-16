@@ -1,41 +1,54 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:1E3A8A,100:7C3AED&text=Muhammad%20Khalil&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Information%20%26%20Computer%20Technology%20Student&descAlignY=62&descSize=18&descColor=CBD5E1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,40:0B1F3A,75:1E3A8A,100:7C3AED&text=MUHAMMAD%20KHALIL&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Information%20%26%20Computer%20Technology%20Engineer&descAlignY=58&descSize=20&descColor=CBD5E1"/>
 
 <a href="https://github.com/muhammadkhalil01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+%26+Backend+Developer;Laravel+%7C+PHP+%7C+Python+%7C+Django;Docker+%7C+Linux+%7C+Networking;Building+ideas+into+technology+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Muhammad+Khalil;Web+%26+Backend+Developer;Laravel+%7C+PHP+%7C+Python+%7C+Django;Docker+%7C+Linux+%7C+Networking;Building+ideas+into+technology+%F0%9F%9A%80"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Politeknik%20Negeri%20Lhokseumawe-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Aceh%2C%20Indonesia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to%20Learn%20%26%20Collaborate-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-0EA5E9?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 <br><br>
 
-<a href="https://github.com/muhammadkhalil01"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:lil4you567@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/muhammadkhalil01"><img src="https://img.shields.io/badge/GitHub-muhammadkhalil01-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:lil4you567@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadkhalil01&label=Profile+Views&color=2563EB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadkhalil01&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 <br>
 
+---
+
+<div align="center">
+
+### `LEARN` → `BUILD` → `EXPERIMENT` → `ENGINEER` → `IMPROVE`
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-Halo! Saya **Muhammad Khalil**, mahasiswa **Information & Computer Technology** di **Politeknik Negeri Lhokseumawe**.
-Saya suka mengubah ide menjadi sistem yang berjalan: dari menulis kode, testing, debugging, sampai deployment.
+Saya **Muhammad Khalil**, mahasiswa **Information & Computer Technology** di **Politeknik Negeri Lhokseumawe**.
+Saya membangun solusi digital yang **praktis, rapi, dan bisa dikembangkan**: dari kode aplikasi, database, API, sampai infrastruktur.
 
-|  |  |
-|---|---|
-| 🔭 **Fokus saat ini** | REST API, Docker, Linux |
-| 🌱 **Sedang dipelajari** | Cloud Computing, Networking, Cybersecurity |
-| 🎯 **Tujuan** | Membangun sistem dari kode aplikasi hingga infrastruktur |
-| ⚡ **Gaya kerja** | Learn → Build → Experiment → Improve |
+```yaml
+name:      Muhammad Khalil
+role:      Web & Backend Developer
+education: Politeknik Negeri Lhokseumawe (ICT)
+location:  Aceh, Indonesia 🇮🇩
+focus:     [REST API, Docker, Linux]
+learning:  [Cloud, Networking, Cybersecurity]
+goal:      Build systems from application code to infrastructure
+```
 
 <br>
 
@@ -47,68 +60,70 @@ Saya suka mengubah ide menjadi sistem yang berjalan: dari menulis kode, testing,
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,django,js,html,css,bootstrap&perline=8"/>
 
-**Database, Tools & DevOps**
+**Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,linux,git,github,postman,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postman,git,github,vscode&perline=6"/>
+
+**DevOps, Systems & IoT**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,arduino&perline=4"/>
 
 </div>
 
 <br>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌐 Laravel Web App
-`Laravel` `PHP` `MySQL` `Bootstrap`
-
 Autentikasi, CRUD, dan antarmuka responsif.
 
+`Laravel` `PHP` `MySQL` `Bootstrap`
+
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🐍 Django App
-`Python` `Django` `SQLite`
-
 Aplikasi web dengan backend dan database terstruktur.
 
+`Python` `Django` `SQLite`
+
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔌 REST API
+Integrasi layanan dengan pola request/response.
+
 `Python` `PHP` `JSON`
-
-Komunikasi antar layanan dengan pola request/response.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Smart IoT
-`ESP32` `Blynk` `Telegram`
-
-Sensor dan monitoring yang terhubung ke internet.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🐳 Docker Lab
-`Docker` `Linux` `Git`
-
 Containerization dan environment deployment.
 
+`Docker` `Linux` `Git`
+
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🤖 Smart IoT
+Sensor dan monitoring yang terhubung ke internet.
+
+`ESP32` `Blynk` `Telegram`
+
+</td>
+<td width="33%" valign="top">
 
 ### 🔐 Security Lab
-`Linux` `Nmap` `Networking`
+Network scanning dan dasar keamanan di lab terkontrol.
 
-Network scanning dan dasar keamanan di lingkungan lab terkontrol.
+`Linux` `Nmap` `Networking`
 
 </td>
 </tr>
@@ -116,28 +131,39 @@ Network scanning dan dasar keamanan di lingkungan lab terkontrol.
 
 <br>
 
-## 📊 Learning Status
+## 🏗️ How I Build
 
-| Teknologi | Fokus | Status |
-|---|---|---|
-| PHP · Laravel | Backend & Web | 🟢 Aktif |
-| Python · Django | Backend & Web | 🟢 Aktif |
-| HTML · CSS · Bootstrap | Frontend | 🟢 Aktif |
-| MySQL · SQLite | Database | 🟢 Aktif |
-| Git · GitHub | Version Control | 🟢 Aktif |
-| REST API | Integrasi Sistem | 🟡 Belajar |
-| Docker · Linux | DevOps | 🟡 Belajar |
-| Networking · Cybersecurity | Network & Security | 🟡 Belajar |
-| Cloud Computing | Infrastruktur | 🟡 Belajar |
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🔍 Analyze] --> C[📐 Design] --> D[⚙️ Build] --> E[🧪 Test] --> F[🚀 Deploy] --> G[🔄 Improve]
+    G --> B
+```
 
 <br>
 
-## 📈 GitHub Stats
+## 🧭 Learning Status
+
+| Area | Teknologi | Status |
+|:--|:--|:--:|
+| Backend | PHP · Laravel · Python · Django | 🟢 |
+| Frontend | HTML · CSS · Bootstrap · JavaScript | 🟢 |
+| Database | MySQL · SQLite | 🟢 |
+| Version Control | Git · GitHub | 🟢 |
+| Integration | REST API · JSON | 🟡 |
+| DevOps | Docker · Linux | 🟡 |
+| Infrastructure | Networking · Cloud Computing | 🟡 |
+| Security | Cybersecurity Fundamentals | 🟡 |
+
+🟢 Aktif &nbsp;•&nbsp; 🟡 Sedang dipelajari
+
+<br>
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadkhalil01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhalil01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=muhammadkhalil01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhalil01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -145,13 +171,22 @@ Network scanning dan dasar keamanan di lingkungan lab terkontrol.
 
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadkhalil01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadkhalil01&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
+<br><br>
+
+<!-- Aktif setelah workflow snake.yml dijalankan -->
+<img src="https://raw.githubusercontent.com/muhammadkhalil01/muhammadkhalil01/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 <br>
 
-## ✅ Roadmap 2026
+## 🗺️ Roadmap 2026
 
 - [x] Git & GitHub
 - [x] Laravel & PHP
@@ -165,11 +200,15 @@ Network scanning dan dasar keamanan di lingkungan lab terkontrol.
 
 <br>
 
+---
+
 <div align="center">
 
 > *"Don't just learn technology. Build something with it."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1E3A8A,100:7C3AED"/>
+**⚡ Building digital systems, one project at a time.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0F2A5F,100:7C3AED"/>
 
 © 2026 Muhammad Khalil
 
